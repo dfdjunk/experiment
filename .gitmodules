@@ -1,0 +1,3 @@
+[submodule "experiment-submodule"]
+	path = experiment-submodule
+	url = https://github.com/dfdjunk/experiment-submodule.git
